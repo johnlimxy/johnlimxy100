@@ -1,0 +1,69 @@
+.name{
+    font-family: sans-serif;
+}
+
+.background{
+    background-color: #556B2F;
+}
+
+.profilePic{
+    height: 60vh;
+    margin-left: 40vw;
+}
+
+.headerProj{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.flexProj{
+    font-size: larger;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-content: space-evenly;
+}
+
+.projects{
+    background-color: #FFFDD0;
+    margin: 10px;
+    border: 1px solid black;
+    font-size: smaller;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+}
+
+.headerSkills{
+    font-family: sans-serif;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: #FFFDD0;
+    font-size: larger;
+    flex-direction: row;
+    justify-content: flex-start; 
+    align-content: space-evenly;
+    width: 40vw;
+    margin-left: 30vw;
+}
+
+.skills{
+    background-color: #FFFDD0;
+    margin: 10px;
+    font-size: smaller;
+    background-color: #FFFDD0;
+    width: 30vw;
+    
+}
+
+.autobiography{
+    font-family: sans-serif;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: #FFFDD0;
+    font-size: larger;
+    display: flex;
+    width: 40vw;
+    margin-left: 30vw;
+}
